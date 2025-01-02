@@ -2,7 +2,6 @@
 - 👀 I’m interested in sport
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: torri12388@gmail.com
 
 <!---
 ViktoriiaProm/ViktoriiaProm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
